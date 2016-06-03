@@ -1,2 +1,3 @@
 # hello-world1
-simple test
+
+Hello, im having fun with github :-)
